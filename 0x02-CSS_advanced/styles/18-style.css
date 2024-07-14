@@ -146,11 +146,11 @@ a:active {
 
 .nav .nav-link {
   display: block;
-  padding: 0.5rem 1rem;
+  padding: 0.5rem, 1rem;
 }
 
 .nav .nav-link:hover {
-  color: var(--nav-item-link-hover); 
+  color: var(--nav-item-link-hover);
 }
 
 h1, h2, h3, h4, h5, h6 {

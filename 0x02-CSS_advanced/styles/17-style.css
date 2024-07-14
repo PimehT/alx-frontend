@@ -84,7 +84,7 @@ a:active {
 }
 
 .section-body {
-  padding: var(--seciton-body-padding);
+  padding: var(--section-body-padding);
 }
 
 .section-footer {

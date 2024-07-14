@@ -43,7 +43,7 @@ a {
   text-decoration: none;
 }
 
-a[href], a[href]:visited {
+a[href^='https'], a[href]:visited {
   font-style: italic;
 }
 

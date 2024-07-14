@@ -39,25 +39,25 @@ body {
   line-height: var(--line-height-base);
 }
 
-a[href]:link {
+a [href]:link {
   text-decoration: none;
 }
 
-a:visited {
-  font-style: italic;
-}
+  a:visited {
+    font-style: italic;
+  }
 
-a:hover {
-  text-decoration: underline;
-}
+  a:hover {
+    text-decoration: underline;
+  }
 
-a:active {
-  background-color: var(--color-light-grey);
-}
+  a:active {
+    background-color: var(--color-light-grey);
+  }
 
-.visually-hidden {
-  display: none;
-}
+  .visually-hidden {
+    display: none;
+  }
 
 .section-header {
   text-align: var(--section-header-align);

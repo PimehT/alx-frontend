@@ -166,7 +166,7 @@ ul.row {
   list-style: none;
 }
 
-ul.row::after {
+.row::after {
   content: "";
   display: table-row;
   clear: both;
